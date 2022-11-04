@@ -16,4 +16,3 @@ jupyter-core
 pandas
 plotly
 seaborn
-waitress
