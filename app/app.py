@@ -4,7 +4,7 @@ import plotly.express as px
 import dash
 from dash.dependencies import Input, Output, State
 from dash import dcc, html, dash_table
-from waitress import serve
+#from waitress import serve
 
 app = dash.Dash()
 server = app.server
